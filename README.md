@@ -3,8 +3,10 @@
 ## Quiz
 - Simple quiz, made in vanilla javascript. project for learning.
 
+## Question
 ![Question](./assets/applicationImage.png)
 
+## Result
 ![Result](./assets/applicationImage2.png)
 
 ## Links

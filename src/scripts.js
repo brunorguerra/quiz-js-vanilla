@@ -1,0 +1,1 @@
+let currentQuestion = 0;

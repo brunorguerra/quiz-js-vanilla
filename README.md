@@ -1,6 +1,7 @@
-- Simple quiz, made in vanilla javascript. project for learning.
+
 
 ## Quiz
+- Simple quiz, made in vanilla javascript. project for learning.
 
 ![Question](./assets/applicationImage.png)
 
